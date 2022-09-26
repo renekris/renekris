@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=renekris&style=flat-square&color=blue" alt="" hidden/>
-
 I am currently learning fullstack via [The Odin Project](https://www.theodinproject.com/)
 
 Completed projects (newest to oldest):
