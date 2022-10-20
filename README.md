@@ -4,6 +4,7 @@ Completed projects (newest to oldest):
 
 | Preview                                                        | Source                                              |
 |----------------------------------------------------------------|-----------------------------------------------------|
+| [>TodoX;](https://renekris.github.io/todo-list/)               | [Code](https://github.com/renekris/todo-list)       |
 | [Half-Life Bugbait](https://renekris.github.io/bugbait-page/)  | [Code](https://github.com/renekris/bugbait-page)    |
 | [Tic-Tac-Toe](https://renekris.github.io/js-tic-tac-toe/)      | [Code](https://github.com/renekris/js-tic-tac-toe)  |
 | [Library](https://renekris.github.io/js-library/)              | [Code](https://github.com/renekris/js-library)      |
