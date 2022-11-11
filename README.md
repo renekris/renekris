@@ -1,5 +1,6 @@
 I am currently learning fullstack via [The Odin Project](https://www.theodinproject.com/)
 
+<br>
 Completed projects (newest to oldest):
 
 | Preview                                                        | Source                                              |
@@ -16,6 +17,12 @@ Completed projects (newest to oldest):
 | [Rock Paper Scissors](https://renekris.github.io/js-rps/)      | [Code](https://github.com/renekris/js-rps)          |
 | [Landing Page](https://renekris.github.io/landing-page/)       | [Code](https://github.com/renekris/landing-page)    |
 
+<br>
+Smaller problems/tasks:
+
+| Source                                                  |
+|---------------------------------------------------------|
+|[Problems / Tasks](https://github.com/renekris/odinoffline)|
 
 <!--
 **renekris/renekris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
