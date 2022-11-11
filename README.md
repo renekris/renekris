@@ -18,7 +18,7 @@ Completed projects (newest to oldest):
 | [Landing Page](https://renekris.github.io/landing-page/)       | [Code](https://github.com/renekris/landing-page)    |
 
 <br>
-Smaller problems/tasks:
+Smaller problems / tasks:
 
 | Source                                                  |
 |---------------------------------------------------------|
