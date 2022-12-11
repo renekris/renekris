@@ -5,6 +5,7 @@ Completed projects (newest to oldest):
 
 | Preview                                                        | Source                                              |
 |----------------------------------------------------------------|-----------------------------------------------------|
+| [Battleship](https://renekris.github.io/battleship/)           | [Code](https://github.com/renekris/battleship)      |
 | [Weather](https://renekris.github.io/weather/)                 | [Code](https://github.com/renekris/weather)         |
 | [>TodoX;](https://renekris.github.io/todo-list/)               | [Code](https://github.com/renekris/todo-list)       |
 | [Half-Life Bugbait](https://renekris.github.io/bugbait-page/)  | [Code](https://github.com/renekris/bugbait-page)    |
