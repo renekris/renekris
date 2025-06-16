@@ -1,4 +1,4 @@
-I am currently learning fullstack via [The Odin Project](https://www.theodinproject.com/)
+[The Odin Project](https://www.theodinproject.com/)
 
 <br>
 Completed projects (newest to oldest):
