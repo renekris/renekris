@@ -1,41 +1,53 @@
-[The Odin Project](https://www.theodinproject.com/)
+## Rene Kristofer Pohlak
 
-<br>
-Completed projects (newest to oldest):
+IT professional | JavaScript, C#, Python | Web development, APIs, Infrastructure
 
-| Preview                                                        | Source                                              |
-|----------------------------------------------------------------|-----------------------------------------------------|
-| [Battleship](https://renekris.github.io/battleship/)           | [Code](https://github.com/renekris/battleship)      |
-| [Weather](https://renekris.github.io/weather/)                 | [Code](https://github.com/renekris/weather)         |
-| [>TodoX;](https://renekris.github.io/todo-list/)               | [Code](https://github.com/renekris/todo-list)       |
-| [Half-Life Bugbait](https://renekris.github.io/bugbait-page/)  | [Code](https://github.com/renekris/bugbait-page)    |
-| [Tic-Tac-Toe](https://renekris.github.io/js-tic-tac-toe/)      | [Code](https://github.com/renekris/js-tic-tac-toe)  |
-| [Library](https://renekris.github.io/js-library/)              | [Code](https://github.com/renekris/js-library)      |
-| [Admin Dashboard](https://renekris.github.io/admin-dashboard/) | [Code](https://github.com/renekris/admin-dashboard) |
-| [Sign Up Form](https://renekris.github.io/signup-form/)        | [Code](https://github.com/renekris/signup-form)     |
-| [Calculator](https://renekris.github.io/js-calc/)              | [Code](https://github.com/renekris/js-calc)         |
-| [Draw](https://renekris.github.io/js-drawing/)                 | [Code](https://github.com/renekris/js-drawing)      |
-| [Rock Paper Scissors](https://renekris.github.io/js-rps/)      | [Code](https://github.com/renekris/js-rps)          |
-| [Landing Page](https://renekris.github.io/landing-page/)       | [Code](https://github.com/renekris/landing-page)    |
+[renekris.dev](https://renekris.dev) | [LinkedIn](https://linkedin.com/in/rene-kristofer-pohlak-668832114) | Tallinn, Estonia
 
-<br>
-Smaller problems / tasks:
+---
 
-| Source                                                  |
-|---------------------------------------------------------|
-|[Problems / Tasks](https://github.com/renekris/odinoffline)|
+### Tech Stack
 
-<!--
-**renekris/renekris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript • C# • Python • SQL • HTML/CSS • Node.js • React • Docker • Linux • Git
 
-Here are some ideas to get you started:
+Currently learning: PyTorch/TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+**[renekris.dev](https://renekris.dev)** | [Repo](https://github.com/renekris/renekris-dev-website)
+React website, Docker, GitHub Actions CI/CD
+
+**Self-Hosted Proxmox Infrastructure**
+Docker Swarm cluster (2 VMs: web + game server)
+- Traefik: automated SSL, routing
+- Security: non-root containers, secrets, capability restrictions
+- CI/CD: self-hosted GitHub Actions runners, zero-downtime deploys
+- Services: N8N, Portainer, OpenVPN/WireGuard, Gatus
+
+**[Claude-Joplin Bridge](https://github.com/renekris/claude-joplin-bridge)**
+Python CLI for Joplin note management
+
+**[Battleship](https://renekris.github.io/battleship/)** | [Code](https://github.com/renekris/battleship)
+2-player or vs AI
+
+**[Weather App](https://renekris.github.io/weather/)** | [Code](https://github.com/renekris/weather)
+Google Maps + OpenWeather API
+
+### Practice Projects
+
+| Project | Demo | Code |
+|---------|------|------|
+| Tic-Tac-Toe (unbeatable AI) | [Play](https://renekris.github.io/js-tic-tac-toe/) | [Repo](https://github.com/renekris/js-tic-tac-toe) |
+| Todo List | [Demo](https://renekris.github.io/todo-list/) | [Repo](https://github.com/renekris/todo-list) |
+| Library Manager | [Demo](https://renekris.github.io/js-library/) | [Repo](https://github.com/renekris/js-library) |
+| Calculator | [Demo](https://renekris.github.io/js-calc/) | [Repo](https://github.com/renekris/js-calc) |
+| Drawing App | [Demo](https://renekris.github.io/js-drawing/) | [Repo](https://github.com/renekris/js-drawing) |
+
+[More exercises](https://github.com/renekris/odinoffline)
+
+---
+
+**Education:** Tallinna Tööstushariduskeskus (Industrial Informatics, EQF Level 4) • The Odin Project (JavaScript)
+**Languages:** Estonian (native) • English (proficient) • Japanese (upper-intermediate)
